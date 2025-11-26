@@ -95,6 +95,6 @@ def print_ascii_art():
     \|__|\|__|\|_______|\|________|\|_______|   \|__|    /__/ /\ __\ 
                                                          |__|/ \|__| 
                                                                      
-   [/neon_cyan]
+  [/neon_cyan]
     """
     console.print(Align.center(art))
