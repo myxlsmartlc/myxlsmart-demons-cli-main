@@ -55,6 +55,10 @@ enter
 ```
 python main.py
 ```
+7. Shell
+```
+git pull --rebase
+```
 ## metode B
 #### jika kamu ingin melihat log paket yang diinstal gunakan metode ini 
 ```
