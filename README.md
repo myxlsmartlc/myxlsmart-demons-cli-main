@@ -79,7 +79,7 @@ apt install python-pillow
 git clone https://github.com/myxlsmartlc/myxlsmart-demons-cli-main
 ```
 ```
-cd myxlsmart-demons-cli
+cd myxlsmart-demons-cli-main
 ```
 ```
 pip install -r requirements.txt
