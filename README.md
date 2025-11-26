@@ -29,11 +29,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli-sunset
+git clone https://github.com/myxlsmartlc/myxlsmart-demons-cli-main
 ```
 4. Open the folder
 ```
-cd me-cli-sunset
+cd myxlsmart-demons-cli-main
 ```
 5. Setup
 ```
@@ -72,10 +72,10 @@ apt install python-pillow
 ```
 ```
 
-git clone https://github.com/backup-heavenly-demons/heavenly-demons-cli
+git clone https://github.com/myxlsmartlc/myxlsmart-demons-cli
 ```
 ```
-cd heavenly-demons-cli
+cd myxlsmart-demons-cli
 ```
 ```
 pip install -r requirements.txt
