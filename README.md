@@ -76,7 +76,7 @@ apt install python-pillow
 ```
 ```
 
-git clone https://github.com/myxlsmartlc/myxlsmart-demons-cli
+git clone https://github.com/myxlsmartlc/myxlsmart-demons-cli-main
 ```
 ```
 cd myxlsmart-demons-cli
