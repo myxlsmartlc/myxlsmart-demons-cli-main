@@ -101,3 +101,7 @@ enter
 ```
 python main.py
 ```
+7. Shell
+```
+git pull --rebase
+```
