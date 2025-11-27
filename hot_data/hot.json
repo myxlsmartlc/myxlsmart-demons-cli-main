@@ -23,4 +23,12 @@
         "option_name": "Vidio",
         "order": 1
     }
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "is_enterprise": false,
+        "variant_name": "Reguler - 10GB",
+        "option_name": "Reguler - 10GB",
+        "order": 99
+    }
 ]
