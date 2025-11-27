@@ -123,8 +123,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Shopeefood 12GB + Unlimited",
-        "price": "Rp55000",
+        "name": "Shopeefood 21GB + Unlimited",
+        "price": "Rp80000",
         "detail": "\nUnlimited WA & Shopee.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -133,8 +133,8 @@
                 "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
-                "option_name": "Shopeefood 12GB",
-                "order": 2
+                "option_name": "Shopeefood 21GB",
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
@@ -148,7 +148,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 55000,
+        "overwrite_amount": 80000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
