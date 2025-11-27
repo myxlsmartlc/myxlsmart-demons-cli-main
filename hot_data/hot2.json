@@ -63,12 +63,12 @@
         "amount_idx": -1
     },
     {
-        "name": "Xtra Combo Plus Vip",
+        "name": "Reguler - 10GB",
         "price": "Rp63400",
         "detail": "\nDaily Quota of Productivity Apps.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Plus - Reguler - 10GB",
+                "family_name": "Xtra Combo Plus",
                 "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
                 "is_enterprise": false,
                 "migration_type": "NONE",
