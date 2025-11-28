@@ -16,11 +16,11 @@
         "order": 1
     },
     {
-        "family_name": "Video & Music",
-        "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
+        "family_name": "Xtra Combo Plus - Reguler - 31GB",
+        "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
-        "variant_name": "Vidio",
-        "option_name": "Vidio",
-        "order": 1
+        "variant_name": "10GB",
+        "option_name": "10GB",
+        "order": 30
     }
 ]
