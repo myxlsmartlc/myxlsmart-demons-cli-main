@@ -98,12 +98,12 @@
         "detail": "\nDaily Quota of Productivity Apps.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Plus - Reguler - 31GB",
+                "family_name": "Xtra myCombo 31GB",
                 "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "b41e2af1-811d-41db-8fc9-ccf8bbede05a",
-                "option_name": "Plus Reguler 31GB",
+                "option_name": "Xtra Combo Plus 31GB",
                 "order": 30
             },
             {
