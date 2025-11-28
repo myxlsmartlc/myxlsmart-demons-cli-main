@@ -16,11 +16,11 @@
         "order": 1
     },
     {
-        "family_name": "Xtra Combo Plus - Reguler - 31GB",
+        "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
-        "variant_name": "10GB",
-        "option_name": "10GB",
+        "variant_name": "Reguler",
+        "option_name": "Reguler",
         "order": 30
     }
 ]
