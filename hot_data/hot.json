@@ -17,6 +17,14 @@
     },
     {
         "family_name": "Xtra Combo Plus",
+        "family_code": "e0f9605b-5dad-486e-a378-cf40d5b7f2ba",
+        "is_enterprise": false,
+        "variant_name": "Regular",
+        "option_name": "33GB",
+        "order": 9
+    },
+    {
+        "family_name": "Xtra Combo Plus",
         "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
         "is_enterprise": false,
         "variant_name": "Reguler",
